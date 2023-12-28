@@ -1,0 +1,46 @@
+/* App.css */
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.survey-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.form-input {
+  margin-bottom: 16px;
+  padding: 8px;
+}
+
+.form-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+}
+
+.form-button:hover {
+  background-color: #45a049;
+}

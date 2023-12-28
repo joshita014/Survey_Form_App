@@ -1,0 +1,27 @@
+/* SurveyList.css */
+
+.survey-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .survey-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .survey-item {
+    border: 1px solid #ddd;
+    margin-bottom: 16px;
+    padding: 16px;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-top: 8px;
+  }
+  
